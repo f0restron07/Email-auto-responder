@@ -12,5 +12,5 @@ Clone the repository
 Install the required npm packages  
 Place your Google API credentials JSON file in the project root and rename it to googleConfig.json.  
 
-**Running the Application**
+**Running the Application**  
 To run gmail-auto-reply, execute the following command in your terminal: node index.js  
